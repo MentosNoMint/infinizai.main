@@ -1,0 +1,167 @@
+body {
+    background: linear-gradient(to right,#000000E0 58%,#57B8FF 42%); font-family: 'Orbitron', sans-serif;
+}
+
+.header-logo-profile {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 27px;
+    padding-left: 60px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: end;
+    margin-top: -60px;
+    margin-right: 60px;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+.nav-style {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0 60px;
+}
+
+.contact-us {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.cart {
+    margin-top: 23px;
+    margin-right: 20px;
+}
+
+a:hover {
+    color:#FAC422;
+    font-size: 18px;
+	transition: all 0.3s ease;
+}
+
+#home{
+	color:#FAC422;
+}
+#home:hover{
+	color: white;
+	font-size: 18px;
+	transition: all 0.3s ease;
+}
+
+.man{
+	position: absolute;
+	top: 296px;
+	right: 260px;
+}
+.text-1 {
+    color: white;
+    position: absolute;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 86px;
+    top: 259px;
+    left: 220px;
+    max-width: 656px;
+}
+.text-2 {
+    color: #999999;
+	position: absolute;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 28px;
+	max-width: 615px;
+	top: 600px;
+	left: 220px;
+
+}
+.View_our_team {
+ 
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    position: absolute;
+	list-style-type: none;
+	top: 769px;
+	left: 480px;
+    text-decoration: none;
+    
+}
+.View_our_team:hover{
+    color: rgb(0, 255, 242);
+	font-size: 18px;
+	transition: all 0.3s ease;
+}
+.Explore_More{
+    color: white;
+    background-color: #57B8FF;
+	color: white;
+	text-decoration: none;
+	padding: 21px 34px;
+	line-height: 28px;
+	font-size: 18px;
+	position: absolute;
+	top: 749px;
+	left: 220px;
+}
+.Explore_More:hover{
+color: rgb(0, 255, 242);
+font-size: 18px;
+transition: all 0.3s ease;
+}
+.fireadd {
+    position: absolute;
+	top: 268px;
+	left: 217px;
+}
+.fire {
+    position: absolute;
+	top: 275px;
+	left: 220px;
+}
+.text-5 {
+color: #57B8FF;
+font-size: 16px;
+	position: absolute;
+	top: 257px;
+	left: 260px;
+}
+.WebFlow {
+    position: absolute;
+    height: 28px;
+    left: 85.79%;
+    right: 0.83%;
+    top: 760px;
+}
+.massange-list {
+    display: flex;
+	list-style-type: none;
+	align-items: center;
+	writing-mode: tb-rl;
+	transform: rotate(180deg);
+	font-size: 11px;
+	position: absolute;
+	left: 100px;
+	top: 319px;
+  justify-content:space-around;
+  flex-wrap:wrap;
+}
+.massange-list a {	display:inline-block;
+padding: 49px;}
+.massange-link {
+    text-decoration: none;
+	color: #80858F;
+}
+.line {
+    position: absolute;
+	top: 480px;
+	left: 437px;
+}
